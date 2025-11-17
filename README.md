@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wixda
-- 👀 I’m interested in building on blockchain
+- 👀 I’m interested in building dapps on blockchain
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on frontend projects
 - I'm always open to collaboration and new opportunities. Feel free to reach out if you have any questions, ideas, or if you'd like to work together on a project.
